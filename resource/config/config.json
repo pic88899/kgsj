@@ -1,0 +1,10 @@
+{
+    "http":"http://103.99.178.223:7723/game/",
+    "httpDebug": "",
+    "version":"0.1",
+    "isDebug": false,
+    "SocketServer":"",
+    "SocketPort": "",
+    "SocketUrl":"",
+    "cdn": ""
+}
